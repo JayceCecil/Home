@@ -7,8 +7,6 @@ layout: default
 
 ## ⭐️ Favorites
 
----
-
 [Reddit](http://reddit.com)
 
 [YouTube](http://youtube.com)
