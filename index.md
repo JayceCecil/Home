@@ -14,7 +14,3 @@ layout: default
 [Spotify](http://open.spotify.com)
 
 [Netflix](http://netflix.com)
-
-## 📝 Notes
-
----
