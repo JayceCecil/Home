@@ -5,7 +5,7 @@ layout: default
 ---
 # <mark>Home</mark>
 
-## <span style="color:blue">⭐️ Favorites</span>
+## <span style="background-color: coral">⭐️ Favorites</span>
 
 [Reddit](http://reddit.com)
 
