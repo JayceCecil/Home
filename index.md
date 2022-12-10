@@ -7,13 +7,13 @@ layout: default
 
 ---
 
-[reddit](http://reddit.com)
+[Reddit](http://reddit.com)
 
 [YouTube](http://youtube.com)
 
-[Spotify - Web Player: Music for everyone](http://open.spotify.com)
+[Spotify](http://open.spotify.com)
 
-[Netflix - Watch TV Shows Online, Watch Movies Online](http://netflix.com)
+[Netflix](http://netflix.com)
 
 ## 📝 Notes
 
