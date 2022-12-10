@@ -3,9 +3,9 @@ title: Home
 permalink: /
 layout: default
 ---
-# Home
+# ==Home==
 
-## ⭐️ Favorites
+## ==⭐️ Favorites==
 
 [Reddit](http://reddit.com)
 
